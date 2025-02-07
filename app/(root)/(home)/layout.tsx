@@ -5,8 +5,8 @@ import Navbar from "@/components/Navbar";
 import Sidebar from "@/components/Sidebar";
 
 export const metadata: Metadata = {
-  title: "ZOOM CLONE (UTSAV PATEL)",
-  description: "A workspace for your team, powered by Stream Chat and Clerk.",
+  title: "Zumtek",
+  description: "A workspace for your Aitek Magnetar team, Stream Chat.",
 };
 
 const RootLayout = ({ children }: Readonly<{ children: ReactNode }>) => {
