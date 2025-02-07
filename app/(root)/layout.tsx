@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import React, { ReactNode } from "react";
 
 export const metadata: Metadata = {
-  title: "ZOOM CLONE (UTSAV PATEL)",
+  title: "Zumtek",
   description: "Video Calling App",
   icons: {
     icon: "/icons/logo.svg",
